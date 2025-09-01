@@ -1,0 +1,5 @@
+{
+  "name": "Walmart Infografias v02",
+  "description": "Una aplicación que analiza documentos PDF usando Gemini y genera automáticamente una infografía profesional de varias páginas basada en los lineamientos de marca minimalistas de Walmart 2025.",
+  "requestFramePermissions": []
+}
